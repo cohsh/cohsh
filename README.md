@@ -11,15 +11,6 @@
 </p>
 
 <p align="left"> 
-  <a href="https://cohsh.github.io/">
-    <img alt="homepage" width="30px" src="https://simpleicons.org/icons/homeassistantcommunitystore.svg" />
-  </a>
-  <a href="https://twitter.com/cohsh_">
-    <img alt="x" width="30px" src="https://simpleicons.org/icons/x.svg" />
-  </a>
-</p>
-
-<p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cohsh&show_icons=true&layout=compact&theme=dark&hide=tex" />
   <img alt="Streak Stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=cohsh&theme=dark">
 </p>
