@@ -17,8 +17,8 @@
     - First-Principles Calculation
 
 ## Link
-- **Research Website:** <a href="https://github.com/cohsh">https://github.com/cohsh</a>
-- **Blog:** <a href="https://github.com/cohsh/blog">https://github.com/cohsh/blog</a>
+- **Research Website:** <a href="https://cohsh.github.io">https://cohsh.github.io</a>
+- **Blog:** <a href="https://cohsh.github.io/blog">https://cohsh.github.io/blog</a>
 - **X:** <a href="https://twitter.com/cohsh_">@cohsh_</a>
 
 ## Activity
