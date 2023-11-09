@@ -2,9 +2,6 @@
     <a href="https://github.com/cohsh/cohsh/">
         <img src="https://komarev.com/ghpvc/?username=cohsh&color=000B00" alt="cohsh" />
     </a>
-    <a href="https://github.com/cohsh">
-        <img height="20" src="https://img.shields.io/github/stars/cohsh?logo=github&labelColor=%23000B00&color=%23000B00" />
-    </a>
 </p>
 
 ## Profile
