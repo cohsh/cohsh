@@ -7,6 +7,22 @@
     </a>
 </p>
 
+## Profile
+- **Name:** Kohei Ishii
+
+- **Affiliation:** The University of Tokyo, Japan
+
+- **Field of Research**:
+    - Condensed Matter Theory
+    - First-Principles Calculation
+
+## Link
+- **Research Website:** <a href="https://github.com/cohsh">https://github.com/cohsh</a>
+- **Blog:** <a href="https://github.com/cohsh/blog">https://github.com/cohsh/blog</a>
+- **X:** <a href="https://twitter.com/cohsh_">@cohsh_</a>
+
+## Activity
+
 <p align="center"> 
     <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cohsh&show_icons=true&layout=compact&theme=graywhite&hide=tex" />
     <img alt="Streak Stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=cohsh&theme=graywhite">
@@ -16,6 +32,8 @@
     <img alt="Summary Card" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cohsh&theme=graywhite" />
     <img alt="Productive Time" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cohsh&theme=graywhite&utcOffset=+9" />
 </p>
+
+## Main Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cohsh&repo=unit-converter)](https://github.com/cohsh/unit-converter)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cohsh&repo=lualatex-template)](https://github.com/cohsh/lualatex-template)
