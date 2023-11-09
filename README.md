@@ -15,7 +15,8 @@
 
 ## Link
 - **Research Website:** <a href="https://cohsh.github.io">https://cohsh.github.io</a>
-- **Blog:** <a href="https://cohsh.github.io/blog">https://cohsh.github.io/blog</a>
+- **Blog (tech):** <a href="https://cohsh.github.io/blog">https://cohsh.github.io/blog</a>
+- **Blog (hobby):** <a href="https://cohsh.com">https://cohsh.com</a>
 - **X:** <a href="https://twitter.com/cohsh_">@cohsh_</a>
 
 ## Activity
