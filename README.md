@@ -4,15 +4,6 @@
     </a>
 </p>
 
-## Profile
-- **Name:** Kohei Ishii
-
-- **Affiliation:** The University of Tokyo, Japan
-
-- **Field of Research**:
-    - Condensed Matter Theory
-    - First-Principles Calculation
-
 ## Link
 - **Research Website:** <a href="https://cohsh.github.io">https://cohsh.github.io</a>
 - **Blog (tech):** <a href="https://cohsh.github.io/blog">https://cohsh.github.io/blog</a>
