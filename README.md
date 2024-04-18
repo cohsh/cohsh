@@ -5,9 +5,17 @@
 </p>
 
 ## Link
-- **Research Website:** <a href="https://cohsh.github.io">https://cohsh.github.io</a>
-- **Blog:** <a href="https://cohsh.github.io/blog">https://cohsh.github.io/blog</a>
-- **X:** <a href="https://twitter.com/cohsh_">@cohsh_</a>
+- **Research Website:**
+    - <a href="https://cohsh.github.io">https://cohsh.github.io</a>
+- **Blog:**
+    - <a href="https://cohsh.github.io/blog">https://cohsh.github.io/blog</a>
+- **X** for
+    - research: <a href="https://twitter.com/cohsh_">@cohsh_</a>
+    - hobbies: <a href="https://twitter.com/cohsh_t">@cohsh_t</a>
+- **Instagram** for
+    - painting and drawing: <a href="https://www.instagram.com/cohsh_/">@cohsh_</a>
+    - photography: <a href="https://www.instagram.com/cohsh_t/">@cohsh_t</a>
+
 
 ## Activity
 
