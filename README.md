@@ -31,9 +31,10 @@
 
 ## Main Repositories
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cohsh&repo=elphem)](https://github.com/cohsh/elphem)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cohsh&repo=unit-converter)](https://github.com/cohsh/unit-converter)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cohsh&repo=lualatex-template)](https://github.com/cohsh/lualatex-template)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cohsh&repo=elphem)](https://github.com/cohsh/elphem)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cohsh&repo=feynman-diagram-generator)](https://github.com/cohsh/feynman-diagram-generator)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cohsh&repo=bib-shelf)](https://github.com/cohsh/bib-shelf)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cohsh&repo=cohsh.github.io)](https://github.com/cohsh/cohsh.github.io)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cohsh&repo=calculator)](https://github.com/cohsh/calculator)
