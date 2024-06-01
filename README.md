@@ -4,7 +4,11 @@
     </a>
 </p>
 
-## Link
+## Affiliation
+Department of Physics, Graduate School of Science,
+The University of Tokyo, Japan
+
+## Links
 - **Research Website:**
     - <a href="https://cohsh.github.io">https://cohsh.github.io</a>
 - **Blog:**
@@ -17,7 +21,7 @@
     - photography: <a href="https://www.instagram.com/cohsh_t/">@cohsh_t</a>
 
 
-## Activity
+## Activities
 
 <p align="center"> 
     <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cohsh&show_icons=true&layout=compact&theme=graywhite&hide=tex" />
