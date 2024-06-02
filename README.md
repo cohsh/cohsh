@@ -56,4 +56,5 @@ The University of Tokyo, Japan
 ### Websites
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cohsh&repo=cohsh.github.io)](https://github.com/cohsh/cohsh.github.io)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cohsh&repo=formulae-base)](https://github.com/cohsh/formulae-base)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cohsh&repo=palettes)](https://github.com/cohsh/palettes)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cohsh&repo=blog)](https://github.com/cohsh/blog)
