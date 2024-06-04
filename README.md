@@ -42,6 +42,7 @@ The University of Tokyo, Japan
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cohsh&repo=unit-converter)](https://github.com/cohsh/unit-converter)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cohsh&repo=qeinput)](https://github.com/cohsh/qeinput)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cohsh&repo=au-cheat-sheet)](https://github.com/cohsh/au-cheat-sheet)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cohsh&repo=q-e-workspace)](https://github.com/cohsh/q-e-workspace)
 
 ### Utilities
 
