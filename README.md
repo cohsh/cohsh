@@ -16,18 +16,6 @@ The University of Tokyo, Japan
 - **X:** 
     - <a href="https://twitter.com/cohsh_">@cohsh_</a>
 
-## Activities
-
-<p align="center"> 
-    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cohsh&show_icons=true&layout=compact&theme=graywhite&hide=tex" />
-    <img alt="Streak Stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=cohsh&theme=graywhite">
-</p>
-
-<p align="center">
-    <img alt="Summary Card" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cohsh&theme=graywhite" />
-    <img alt="Productive Time" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cohsh&theme=graywhite&utcOffset=+9" />
-</p>
-
 ## Main Repositories
 
 ### Physics
@@ -55,3 +43,15 @@ The University of Tokyo, Japan
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cohsh&repo=palettes)](https://github.com/cohsh/palettes)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cohsh&repo=marp-webslide-template)](https://github.com/cohsh/marp-webslide-template)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cohsh&repo=blog)](https://github.com/cohsh/blog)
+
+## Activities
+
+<p align="center"> 
+    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cohsh&show_icons=true&layout=compact&theme=graywhite&hide=tex" />
+    <img alt="Streak Stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=cohsh&theme=graywhite">
+</p>
+
+<p align="center">
+    <img alt="Summary Card" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cohsh&theme=graywhite" />
+    <img alt="Productive Time" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cohsh&theme=graywhite&utcOffset=+9" />
+</p>
