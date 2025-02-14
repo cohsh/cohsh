@@ -36,6 +36,8 @@ The University of Tokyo, Japan
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cohsh&repo=progress)](https://github.com/cohsh/progress)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cohsh&repo=calculator)](https://github.com/cohsh/calculator)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cohsh&repo=online-memo-tool)](https://github.com/cohsh/online-memo-tool)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cohsh&repo=dissertation-template)](https://github.com/cohsh/dissertation-template)
+
 
 ### Websites
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cohsh&repo=cohsh.github.io)](https://github.com/cohsh/cohsh.github.io)
