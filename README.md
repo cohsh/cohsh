@@ -1,12 +1,5 @@
-<p align="left">
-    <a href="https://github.com/cohsh/cohsh/">
-        <img src="https://komarev.com/ghpvc/?username=cohsh&color=000B00" alt="cohsh" />
-    </a>
-</p>
-
 ## Affiliation
-Department of Physics, Graduate School of Science,
-The University of Tokyo, Japan
+The Institute for Solid State Physics, The University of Tokyo, Japan
 
 ## Links
 - **Website:**
@@ -47,6 +40,12 @@ The University of Tokyo, Japan
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cohsh&repo=blog)](https://github.com/cohsh/blog)
 
 ## Activities
+
+<p align="left">
+    <a href="https://github.com/cohsh/cohsh/">
+        <img src="https://komarev.com/ghpvc/?username=cohsh&color=000B00" alt="cohsh" />
+    </a>
+</p>
 
 <p align="center"> 
     <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cohsh&show_icons=true&layout=compact&theme=graywhite&hide=tex" />
